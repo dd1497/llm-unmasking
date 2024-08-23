@@ -7,10 +7,19 @@ Layer-wise causal mask (CM) removal in decoder-only LLMs can drastically improve
 
 ## Citing
 ```
-@article{dukic2024looking,
-  title={Looking right is sometimes right: Investigating the capabilities of decoder-only llms for sequence labeling},
-  author={Dukic, David and {\v{S}}najder, Jan},
-  journal={arXiv preprint arXiv:2401.14556},
-  year={2024}
+@inproceedings{dukic-snajder-2024-looking,
+    title = "Looking Right is Sometimes Right: Investigating the Capabilities of Decoder-only {LLM}s for Sequence Labeling",
+    author = "Duki{\'c}, David  and
+      Snajder, Jan",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.843",
+    pages = "14168--14181",
 }
 ```
